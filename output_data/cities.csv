@@ -1,0 +1,4 @@
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Windspeed,Country,Date
+0,Los Angeles,34.0522,-118.2437,67.21,48,0,12.66,US,1741654905
+1,New York,40.7143,-74.006,55.4,56,0,8.05,US,1741655085
+2,Chicago,41.85,-87.65,63.12,45,75,10.36,US,1741654965
